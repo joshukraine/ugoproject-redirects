@@ -4,5 +4,5 @@ Simple redirect configuration for ugoproject.org domain forwarding.
 
 ## Setup
 - Domain: ugoproject.org  
-- Redirects all traffic to Notion page
+- Redirects to the UGO page on euroteamoutreach.org (/ugo/)
 - Deployed via Cloudflare Pages
